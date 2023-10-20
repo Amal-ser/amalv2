@@ -21,7 +21,7 @@ ABHISHEK-SER Multi Device Whatsapp Bot.
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/ABHISHEK-SER/fork"><img title="ABHISHEK-SER" src="https://img.shields.io/badge/FORK ABHISHEK SER-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Amal-ser/amalv2"><img title="amalv2" src="https://img.shields.io/badge/FORK ABHISHEK SER-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan The Qr Code And Upload abhi.data.json To Your Fork🎯(Will Recieve It On Your Bot Number After Scanning)
     <br>
@@ -29,7 +29,7 @@ ABHISHEK-SER Multi Device Whatsapp Bot.
 
 
 
-## ABHISHEK-SER Deploy Method
+##  Deploy Method
 
 -------
 
@@ -40,7 +40,7 @@ ABHISHEK-SER Multi Device Whatsapp Bot.
 ---
 ### Deploy Heroku 
 
-<a href="https://heroku.com/deploy?template=https://github.com/AbhishekSuresh2/ABHISHEK-SER/"><img title="ABHISHEK-SER Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Amal-ser/amalv2"><img title="ABHISHEK-SER Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 ---
 ### Heroku Tutorial
